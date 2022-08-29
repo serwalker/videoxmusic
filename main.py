@@ -10,9 +10,9 @@ async def main():
     await call_py.start()
     print(
         """
-    --------------------------
-   | USERBOT HAS BEEN DEPLOY! |
-    --------------------------
+    ------------------------------
+   | SHIN STREAM HAS BEEN DEPLOY! |
+    ------------------------------
 """
     )
     await idle()
